@@ -1,11 +1,11 @@
-[![dotnfc's github stats](https://github-readme-stats.vercel.app/api?username=dotnfc)](https://github.com/dotnfc)
+<!-- [![dotnfc's github stats](https://github-readme-stats.vercel.app/api?username=dotnfc)](https://github.com/dotnfc) -->
 
 # Welcome to My Home Page
 <a href="https://github.com/dotnfc">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dotnfc&layout=compact&theme=material-palenight" />
 </a>
 
-## 📘 My top open source projects
+## 📘 Recommended Repo
 
 <p align="left">
   <a href="https://github.com/dotnfc/arducleo">
