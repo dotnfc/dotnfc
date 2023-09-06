@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @dotnfc
-- 👀 I’m interested in sotfware and hardware development
-- 🌱 I’m working on esp32-s2 weather node
-- 📫 How to reach me: dotnfc@twitter
+[![dotnfc's github stats](https://github-readme-stats.vercel.app/api?username=dotnfc)](https://github.com/dotnfc)
 
-<!---
-dotnfc/dotnfc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to My Home Page
+<a href="https://github.com/dotnfc">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dotnfc&layout=compact&theme=material-palenight" />
+</a>
+
+## 📘 My top open source projects
+
+<p align="left">
+  <a href="https://github.com/dotnfc/arducleo">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dotnfc&repo=arducleo&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="arducleo"></a>
+  <a href="https://github.com/dotnfc/DAPLinkHelp">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dotnfc&repo=DAPLinkHelp&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="btstack"></a>
+</p>
